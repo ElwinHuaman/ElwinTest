@@ -116,21 +116,91 @@ education:
       - Implementation of information systems
 
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
+  - role: Quechua Language Teacher
+    org: Department of Linguistics, University of Innsbruck
+    url: 'https://www.uibk.ac.at'
+    start: 2025-09-01
+    end: 2026-01-26
+    summary: |2-
+      Responsibilities include:
+      - Designing and delivering a comprehensive introductory Quechua language course
+      - Creating learning material, focusing on grammar, phonology, and morphosyntax
+      - Managing course assessment, student projects, and a final written exam
+  - role: Project Manager, Open Multilingual Speech
+    org: Mozilla Foundation
+    url: 'https://commonvoice.mozilla.org'
+    start: 2024-11-01
+    end: 2025-03-30
     summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-    button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
+      Responsibilities include:
+      - Led community-driven efforts to collect and validate more than 15 hours of open-source speech data
+      - Localizing and adapting Mozilla Common Voice platform for Quechua languages
+      - Bridged technical and non-technical stakeholders to align to language preservation goals
+  - role: Web Community Coordinator
+    org: Endangered Languages Project
+    url: 'https://www.endangeredlanguages.com'
+    start: 2024-09-01
+    end: 2025-03-30
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Responsibilities include:
+      - Facilitated knowledge-sharing between researchers and native speaker communities
+      - Designed workflows to make language resources more accessible to non-technical users
+      - Led Skill Share Sessions on Project Management, Grant writing, and Funding processes
+  - role: Data Consultant
+    org: Digital Science Center (DISC), University of Innsbruck, Austria
+    url: 'https://www.uibk.ac.at/de/disc/'
+    start: 2023-06-01
+    end: 2023-11-30
+    summary: |
+      Responsibilities include:
+      - Assist with the modelling and deployment of medieval mining text data
+      - Support the assessment of data correctness for the _Historical Mining Texts_ Project
+      
+      The outcome enabled the identiﬁcation of data modelling issues and prevented from representing inconsistent data.
+  - role: E-learning Developer
+    org: Wikimedia Foundation
+    url: https://wikimediafoundation.org/
+    start: 2023-01-01
+    end: 2023-06-30
+    summary: |
+      Responsibilities include:
+      - Develop, implement, and localize the _Reading Wikipedia in the Classroom_ program for the Spanish-speaking user group in Peru
+      - Create and develop an e-learning course using the OpenEdX Learning Management System
+      
+      The blended program reached 130 teachers, and the program materials were translated to the Quechua language. 
+  - role: E-learning Facilitator
+    org: Wikimedia Foundation, USA (Remote)
+    url: https://wikimediafoundation.org/
+    start: 2023-09-01
+    end: 2023-12-30
+    summary: |
+      Responsibilities include:
+      - Support the development of e-learning programs such as _Training of Trainers_. The program hosted +20 participants from diﬀerent countries
+      - Assist its smooth implementation and assessment. 
+      - Creat e-learning materials to present complex concepts of the free knowledge ecosystem to non-expert audiences. 
+  - role: Lecturer
+    org: Computer Science Department, Innsbruck University, Austria
+    url: https://uibk.ac.at/
+    start: 2019-01-01
+    end: 2022-12-30
+    summary: |
+      Responsibilities include to teach groundbreaking subjects:
+      - Knowledge graphs and Smart Data
+      - Advance topics in computer science
+      - Online communication and marketing
+      - Programming methodology
+  - role: Research Assistant
+    org: Semantic Technology Institute (STI), University of Innsbruck, Austria.
+    url: https://www.sti-innsbruck.at/
+    start: 2018-09-01
+    end: 2022-12-30
+    summary: |
+      Responsibilities include:
+      - Developed and implement data and knowledge management strategies
+      - Research and develop a knowledge graph curation framework in order to assess the quality of knowledge graphs
+      - Assist the development of the MindLab and WordLiftNG projects
+      
+      The outcome highlighted the tasks; assessment, cleaning, and enrichment, which is described in the book: _Knowledge Graphs: Methodologies, Tools, and Selected Use Cases_. 
 
 skills:
   - name: Technical Skills
