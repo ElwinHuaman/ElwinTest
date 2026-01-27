@@ -4,9 +4,9 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Website name (set in params.yaml under hugoblox.branding.name)
-title: ''
+title: 'Elwin Huaman | Researcher'
 # Website URL
-baseURL: 'https://example.com/'
+baseURL: 'https://elwin.huamanquispe.com/'
 
 ############################
 ## LANGUAGE
@@ -47,7 +47,7 @@ outputs:
   section: [HTML, RSS]
 imaging:
   resampleFilter: lanczos
-  quality: 90
+  quality: 80
   anchor: smart
   hint: picture
 timeout: 600000

@@ -13,18 +13,18 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   identity:
     # Site name - shown in navbar, footer, copyright, and browser title by default
-    name: "Your Name"
+    name: "Elwin Huaman"
     # Legal entity for copyright notices (defaults to name if not set)
     organization: ""
     # Schema.org type for structured data
     type: person                        # person | organization | local_business
     # Short tagline displayed on your site
-    tagline: ""
+    tagline: "Innovating for a sustainable future through community-driven technology"
     # Site meta description for search engines and social sharing
-    description: "The highly-customizable Hugo Academic theme powered by HugoBlox Kit. Easily create your personal academic website."
+    description: "Elwin Huaman is a peruvian researcher, project manager, and under-resourced language activist."
     # Social accounts (used for meta tags like Twitter Cards)
     social:
-      twitter: "LoreLabs_"              # Twitter/X handle for Twitter Cards (without @)
+      twitter: "ElwinHuaman"              # Twitter/X handle for Twitter Cards (without @)
 
   # ────────────────────────────────────────────────────────────────────────────
   # THEME
@@ -200,7 +200,7 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   analytics:
     google:
-      measurement_id: ""                # Google Analytics 4: G-XXXXXXXXXX
+      measurement_id: "G-V93H6PY1TW"                # Google Analytics 4: G-XXXXXXXXXX
     google_tag_manager:
       container_id: ""                  # GTM-XXXXXXX
     plausible:
@@ -219,7 +219,7 @@ hugoblox:
   # Search engine site verification codes
   # ────────────────────────────────────────────────────────────────────────────
   verification:
-    google: ""
+    google: "G-V93H6PY1TW"
     bing: ""
     baidu: ""
     yandex: ""
@@ -243,7 +243,7 @@ hugoblox:
   locale:
     date_format: "Jan 2, 2006"          # Go time format
     time_format: "3:04 PM"
-    address_format: en-us
+    address_format: en-uk
 
   # ────────────────────────────────────────────────────────────────────────────
   # SECURITY
