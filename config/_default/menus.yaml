@@ -4,9 +4,6 @@
   #   The weight parameter defines the order that the links will appear in.
 
 main:
-    - name: projects
-      url: /
-      weight: 10
     - name: Bio
       url: /
       weight: 10
@@ -63,7 +60,7 @@ main:
       # url: projects/
       weight: 30
     - name: All Projects
-      url: projects/
+      url: project/
       parent: Projects
       weight: 10
     - name: 2024 Quechua Voices
