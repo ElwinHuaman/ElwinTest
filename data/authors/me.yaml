@@ -58,16 +58,16 @@ education:
   #   button:
   #     text: 'Related work: QICHWABASE'
   #     url: 'https://arxiv.org/pdf/2305.06173'
-  # - degree: PhD in Computer Science (candidate)
-  #   institution: Innsbruck University, Austria
-  #   start: 2019-03-01
-  #   end: 2022-12-30
-  #   summary: |
-  #     Thesis on _Knowledge Graph Quality Assessment_. I researched the representation, curation, and assessment of knowledge graphs, e.g. data modelling, ontologies, knowledge representation, and knowledge curation.
-  #   button:
-  #     text: 'Related work: Steps to Knowledge Graphs Quality Assessment'
-  #     url: 'https://arxiv.org/pdf/2208.07779'
-  #     icon: hero/arrow-down-tray
+  - degree: PhD in Computer Science (candidate)
+    institution: Innsbruck University, Austria
+    start: 2019-03-01
+    end: 2022-12-30
+    summary: |
+      Thesis on _Knowledge Graph Quality Assessment_. I researched the representation, curation, and assessment of knowledge graphs, e.g. data modelling, ontologies, knowledge representation, and knowledge curation.
+    button:
+      text: 'Related work: Steps to Knowledge Graphs Quality Assessment'
+      url: 'https://arxiv.org/pdf/2208.07779'
+      icon: hero/arrow-down-tray
   - degree: MSc in Web Engineering
     institution: University of Oviedo, Spain
     start: 2015-10-01
