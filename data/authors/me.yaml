@@ -205,37 +205,37 @@ experience:
 skills:
   - name: Hard skills
     items:
-      - name: Coding
+      - label: Coding
         description: 'HTML, Java, Python, JavaScript, Markdown, LaTeX'
         percent: 80
         icon: code-bracket
-      - name: E-learning
+      - label: E-learning
         description: 'Moodle, OpenEdx, OpenOLAT, Figma, Canva, Camtasia, OBS Studio, Teams, Zoom'
         percent: 100
         icon: presentation-chart-bar
-      - name: Databases
+      - label: Databases
         description: 'GraphDB, SPARQL, MySQL, Wikibase'
         percent: 100
         icon: circle-stack
-      - name: Software
+      - label: Software
         description: 'Jira, JupyterLab, Wikidata, WordPress'
         percent: 100
         icon: computer-desktop
   - name: Soft skills
     items:
-      - name: Communication
+      - label: Communication
         description: 'Presentation skills, active listening, facilitation, time management'
         percent: 100
         icon: chat-bubble-left-right
-      - name: Teamwork
+      - label: Teamwork
         description: 'Collaboration, mediation, brainstorming, goal-setting'
         percent: 100
         icon: user-group
-      - name: Leadership
+      - label: Leadership
         description: 'Initiative, delegation, mentorship, motivation'
         percent: 100
         icon: rocket-launch
-      - name: Problem-solving
+      - label: Problem-solving
         description: 'Creative thinking, strategic thinking, consultation'
         percent: 100
         icon: check-badge
@@ -243,30 +243,122 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Outdoor
+      - label: Outdoor
         description: 'Basketball, Beach volleyball, Climbing, Hiking, Mountain biking, Travel'
         percent: 60
         icon: globe-americas
-      - name: Indoor
+      - label: Indoor
         description: 'Board games, Chess, Cooking, Dance, Swimming, Volleyball'
         percent: 100
         icon: puzzle-piece
-      - name: Activism
+      - label: Activism
         description: 'Digital literacy, Quechua,  Responsible AI, Under-resourced languages'
         percent: 80
         icon: person-simple-walk
 
 languages:
-  - name: English
-    level: 5
-    label: Native
+  - name: Quechua
+    percent: 100
   - name: Spanish
-    level: 4
-    label: Fluent
+    percent: 100
+  - name: English
+    percent: 80
+  - name: Italian
+    percent: 60
+  - name: German
+    percent: 40
 
 awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
-    icon: hero/trophy
+  - title: '`GRANT` | Giving voices to the Quechua Collao vocabulary'
+    url: 'https://meta.wikimedia.org/wiki/Grants:Programs/Wikimedia_Community_Fund/Rapid_Fund/Giving_voices_to_the_Quechua_Collao_vocabulary_on_Wikimedia_Commons_(ID:_22450106)'
+    date: '2024-04-01'
+    awarder: Wikimedia Foundation
+    icon: ''
+    summary: |
+      Our objective is to record the voices of the Quechua Collao vocabulary in various age ranges, and make the recordings available on Wikimedia Commons. So, the Quechua speakers, quechua learners, teachers, students, and ultimately scientists can build projects on top of it. For instance, the recordings can be used for the production of Open Educational Resources in mother tongues.
+  - title: '`GRANT` | AURORA Summer School'
+    url: 'https://uibk.ac.at/'
+    certificate_url: ''
+    date: '2023-06-01'
+    awarder: University of Innsbruck
+    icon: ''
+    summary: |
+      University of Innsbruck grant for attending the AURORA Summer School on Public Outreach for selected PhD candidates, from 5 to 8 June, Iceland.
+  - title: '`SCHOLARSHIP` | Supporting technical contributor to Wikimedia projects'
+    url: ''
+    date: '2023-05-01'
+    awarder: Wikimedia Foundation
+    icon: ''
+    summary: |
+      Wikimedia Foundation for supporting technical contributor to Wikimedia projects, and allow them to attend the Wikimedia Hackathon 19–21 May, Greece
+  - title: '`SCIENCE SLAM WINNER` | Preserving human knowledge through knowledge graphs'
+    url: 'http://www.scienceslam.at/'
+    date: '2023-09-27'
+    awarder: Science Slam Austria
+    icon: 'hero/trophy'
+    summary: |
+      Preserving human knowledge through knowledge graphs by Elwin Huaman (ScienceSlam2022), See the video: https://www.youtube.com/watch?v=VZmVrKyYsgU.
+  - title: '`BEST PROJECT AWARD` | Dictionary LODification using Wikibase'
+    url: 'https://datathon2022.linkeddata.es/'
+    certificate_url: '../../uploads/NexusCertificate.png'
+    date: '2023-06-03'
+    awarder: European network for Web-centred linguistic data science
+    icon: ''
+    summary: |
+      Best Project Award at the 4th Summer Datathon on Linguistic Linked Open Data (SDLLOD-22) with the project _Dictionary LODification using Wikibase: Quechua language_.
+  - title: '`FIRST PRIZE` | Indigenous Languages Hackathon'
+    url: 'https://bit.ly/WSIS-winner'
+    certificate_url: '../../uploads/UNESCOHack.jpeg'
+    date: '2022-05-01'
+    awarder: UNESCO
+    icon: 'hero/trophy'
+    summary: |
+      First Prize at the ICTs for Indigenous Languages Hackathon as part of the World Summit on the Information Society (WSIS 2022). Generating knowledge in minority languages for the Web.
+  - title: '`BEST PAPER AWARD` | Towards Knowledge Graphs Validation'
+    url: 'https://doi.org/10.1007/978-3-030-91305-2_4'
+    certificate_url: '../../uploads/ElwinHuamanKGSWC2021.JPG'
+    date: '2021-11-24'
+    awarder: Iberoamerican Knowledge Graphs and Semantic Web Conference
+    icon: 'hero/trophy'
+    summary: |
+      Best Paper Award at the Knowledge Graph Semantic Web Conference  (KGSWC 2021), _Towards Knowledge Graphs Validation through Weighted Knowledge Sources_.
+  - title: '`FINALISTS PHASE` | Aporta Challenge 2019, Ideas competition'
+    url: 'https://datos.gob.es/en/desafios-aporta/aporta-challenge-2019'
+    certificate_url: 'https://www.youtube.com/watch?v=6KZ5FkUBQlc'
+    date: '2019-12-17'
+    awarder: Ministry of Economy and Business, Spain
+    icon: ''
+    summary: |
+      We peopose a web search engine for locating sustainable destinations. It aims to promote responsible and sustainable tourism to preserve the planet.
+  - title: '`GRANT` | Der Förderkreis 1669'
+    url: 'https://www.uibk.ac.at/'
+    certificate_url: 'https://www.uibk.ac.at/foerderkreis1669/'
+    date: '2019-07-07'
+    awarder: University of Innsbruck, Austria
+    icon: ''
+    summary: |
+      The Förderkreis 1669 of the University of Innsbruck supports excellent young researchers by funding conference participation.
+  - title: '`FIRST PRIZE` | Smarth Destination Hackathon'
+    url: 'https://www.unwto.org/'
+    certificate_url: 'https://www.youtube.com/watch?v=roUrLgHZtWQ'
+    date: '2018-06-01'
+    awarder: World Tourism Organization (UNWTO) with the Spanish government
+    icon: ''
+    summary: |
+      First prize in the Smarth Destination Hackathon (Hack4SD), I have developed a search engine for sustainable tourism destinations. 
+  - title: '`GRANT` | Peruvian scientists in Europe'
+    url: 'https://www.sinapsis-peru.org/'
+    certificate_url: 'https://www.sinapsis-peru.org/'
+    date: '2017-10-01'
+    awarder: Ministry of Foreign Affairs of Peru, Germany
+    icon: ''
+    summary: |
+      Grant to participate in the meeting of Peruvian scientists in Europe (SINAPSIS) in Berlin, Germany. I presented my contributions related to Linked Open Data  to the Peruvian scientists community.
+  - title: '`FIRST PRIZE` | University Contest of Talent and Entrepreneurship'
+    url: 'https://www.uniovi.es/'
+    certificate_url: 'https://web.archive.org/web/20170710113959/https://www.elcomercio.es/asturias/201706/06/gancho-alpacas-peruanas-20170606000443-v.html'
+    date: '2017-06-01'
+    awarder: University of Oviedo, Spain
+    icon: ''
+    summary: |
+      First prize in the University Contest of Talent and Entrepreneurship (CHAMP-U). The project let Alpaca breeder’s family in Peru offer their houses to visitors.
