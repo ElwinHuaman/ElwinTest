@@ -38,58 +38,58 @@ main:
       url: 'https://huamanquispe.com/us/team/'
       parent: Bio
       weight: 17
-# # RESEARCH
-#   - name: Research
-#     url: /
-#     weight: 20
-#   - name: Publications
-#     url: publication/
-#     parent: Research
-#     weight: 21 
-#   - name: Book
-#     url: research/knowledge-graph-book/
-#     parent: Research
-#     weight: 22
-#   - name: Open theses
-#     url: research/theses/
-#     parent: Research
-#     weight: 23
-#   - name: Ideas
-#     url: research/ideas/
-#     parent: Research
-#     weight: 24
-#     # PROJECTS     
-#   - name: Projects
-#     # url: projects/
-#     weight: 30
-#   - name: All Projects
-#     url: projects/
-#     parent: Projects
-#     weight: 10
-#   - name: 2024 Quechua Voices
-#     url: project/quechuavoices/
-#     parent: Projects
-#     weight: 32
-#   - name: 2023 WikiAndes
-#     url: project/wikiandes/
-#     parent: Projects
-#     weight: 34
-#   - name: 2022 Qichwabase
-#     url: project/qichwabase/
-#     parent: Projects
-#     weight: 35
-#   - name: 2021 WordLift NG
-#     url: project/wordliftng/
-#     parent: Projects
-#     weight: 37
-#   - name: 2021 Quechua Wikipedia
-#     url: project/quechuawikipedia/
-#     parent: Projects
-#     weight: 38
-#   - name: 2018 MindLab
-#     url: project/mindlab/
-#     parent: Projects
-#     weight: 41
+  # RESEARCH
+    - name: Research
+      url: /
+      weight: 20
+    - name: Publications
+      url: publication/
+      parent: Research
+      weight: 21 
+    - name: Book
+      url: research/knowledge-graph-book/
+      parent: Research
+      weight: 22
+    - name: Open theses
+      url: research/theses/
+      parent: Research
+      weight: 23
+    - name: Ideas
+      url: research/ideas/
+      parent: Research
+      weight: 24
+  # PROJECTS     
+    - name: Projects
+      # url: projects/
+      weight: 30
+    - name: All Projects
+      url: projects/
+      parent: Projects
+      weight: 10
+    - name: 2024 Quechua Voices
+      url: project/quechuavoices/
+      parent: Projects
+      weight: 32
+    - name: 2023 WikiAndes
+      url: project/wikiandes/
+      parent: Projects
+      weight: 34
+    - name: 2022 Qichwabase
+      url: project/qichwabase/
+      parent: Projects
+      weight: 35
+    - name: 2021 WordLift NG
+      url: project/wordliftng/
+      parent: Projects
+      weight: 37
+    - name: 2021 Quechua Wikipedia
+      url: project/quechuawikipedia/
+      parent: Projects
+      weight: 38
+    - name: 2018 MindLab
+      url: project/mindlab/
+      parent: Projects
+      weight: 41
 #   # ACTIVITIES
 #   # - name: Papers
 #   #   url: /#papers
