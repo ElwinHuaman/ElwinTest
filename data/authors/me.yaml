@@ -203,22 +203,58 @@ experience:
       The outcome highlighted the tasks; assessment, cleaning, and enrichment, which is described in the book: _Knowledge Graphs: Methodologies, Tools, and Selected Use Cases_. 
 
 skills:
-  - name: Technical Skills
+  - name: Hard skills
     items:
-      - label: Python
-        level: 5
-      - label: Machine Learning
-        level: 5
-      - label: Cloud Computing
-        level: 4
-  - name: Research & Communication
+      - name: Coding
+        description: 'HTML, Java, Python, JavaScript, Markdown, LaTeX'
+        percent: 80
+        icon: code-bracket
+      - name: E-learning
+        description: 'Moodle, OpenEdx, OpenOLAT, Figma, Canva, Camtasia, OBS Studio, Teams, Zoom'
+        percent: 100
+        icon: presentation-chart-bar
+      - name: Databases
+        description: 'GraphDB, SPARQL, MySQL, Wikibase'
+        percent: 100
+        icon: circle-stack
+      - name: Software
+        description: 'Jira, JupyterLab, Wikidata, WordPress'
+        percent: 100
+        icon: computer-desktop
+  - name: Soft skills
     items:
-      - label: Academic Writing
-        level: 5
-      - label: Conference Presentations
-        level: 4
-      - label: Grant Proposals
-        level: 4
+      - name: Communication
+        description: 'Presentation skills, active listening, facilitation, time management'
+        percent: 100
+        icon: chat-bubble-left-right
+      - name: Teamwork
+        description: 'Collaboration, mediation, brainstorming, goal-setting'
+        percent: 100
+        icon: user-group
+      - name: Leadership
+        description: 'Initiative, delegation, mentorship, motivation'
+        percent: 100
+        icon: rocket-launch
+      - name: Problem-solving
+        description: 'Creative thinking, strategic thinking, consultation'
+        percent: 100
+        icon: check-badge
+  - name: Hobbies
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Outdoor
+        description: 'Basketball, Beach volleyball, Climbing, Hiking, Mountain biking, Travel'
+        percent: 60
+        icon: globe-americas
+      - name: Indoor
+        description: 'Board games, Chess, Cooking, Dance, Swimming, Volleyball'
+        percent: 100
+        icon: puzzle-piece
+      - name: Activism
+        description: 'Digital literacy, Quechua,  Responsible AI, Under-resourced languages'
+        percent: 80
+        icon: person-simple-walk
 
 languages:
   - name: English
