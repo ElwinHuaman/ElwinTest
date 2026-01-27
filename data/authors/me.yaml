@@ -17,49 +17,103 @@ bio: |
   Elwin Huaman is a **Researcher**, **Project Manager**, and an **Activist for Under-Resourced Languages**. He has experience creating [Knowledge Graphs](https://link.springer.com/book/10.1007/978-3-030-37439-6) and applying [Semantic Web]() technologies in academia and industry. He has co-authored the book: [Knowledge Graphs - Methodology, Tools and Selected Use Cases](https://link.springer.com/book/10.1007/978-3-030-37439-6), and leads the [QICHWABASE](https://qichwa.wikibase.cloud/) Knowledge Graph that supports a harmonization process of the language and knowledge of Quechua communities across the world.
 
 affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Innsbruck University
+    url: http://uibk.ac.at/
 
 links:
-  - icon: at-symbol
-    url: mailto:alex.johnson@example.com
-    label: E-mail Me
+  # - icon: at-symbol
+  #   url: mailto:alex.johnson@example.com
+  #   label: E-mail Me
   - icon: brands/x
-    url: https://x.com/example
+    url: https://twitter.com/ElwinHuaman
+  - icon: brands/instagram
+    url: https://www.instagram.com/ElwinHuaman
   - icon: brands/github
-    url: https://github.com/example
+    url: https://github.com/ElwinHuaman
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
+    url: https://www.linkedin.com/ElwinHuaman
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
+    url: https://scholar.google.com/citations?user=D7AE8QsAAAAJ
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0000-0002-2410-4977
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Semantic Web 
+  - Knowledge Graphs
+  - Resposible AI
+  - Web for all
+  - Low-resource Languages
+  - Computational Linguistics
+  - Wikibase Ecosystem
+  - Minority communities
+  - Quechua languages
 
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
+  # - degree: PhD in Linguistics and Media Studies (ongoing)
+  #   institution: Innsbruck University, Austria
+  #   date_start: 2023-10-10
+  #   date_end: 2025-12-30
+  #   summary: |
+  #     Thesis on _Building Knowledge Graphs for Under-resourced Languages_. I research the approaches for building knowledge graphs for under-resourced languages, that involves a holistic process of resource collection, creation, storing, curation, and deployment.
+  #   button:
+  #     text: 'Related work: QICHWABASE'
+  #     url: 'https://arxiv.org/pdf/2305.06173'
+  - degree: PhD in Computer Science (candidate)
+    institution: Innsbruck University, Austria
+    start: 2019-03-01
+    end: 2022-12-30
     summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
+      Thesis on _Knowledge Graph Quality Assessment_. I researched the representation, curation, and assessment of knowledge graphs, e.g. data modelling, ontologies, knowledge representation, and knowledge curation.
     button:
-      text: Download dissertation
-      url: /resume.pdf
+      text: 'Related work: Steps to Knowledge Graphs Quality Assessment'
+      url: 'https://arxiv.org/pdf/2208.07779'
       icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
+  - degree: MSc in Web Engineering
+    institution: University of Oviedo, Spain
+    start: 2015-10-01
+    end: 2017-07-01
+    summary: |
+      I specialized in Semantic Web technologies that can allow the representation, validation, and deployment of data on and oﬀ the web.
+
+      Courses included:
+      - New Developments in Semantic Web
+      - Languages and web standards
+      - Ethical and legal aspect of the web
+      - Direction and Management of web projects
+      - Web content manager
+      - Architecture and systems development E-Learning
+      - Business models in electronic commerce and web
+  - degree: MSc in Digital Information Systems 
+    institution: University of Salamanca, Spain
     start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
+    end: 2014-07-01
+    summary: |
+      I focused on the management, preservation, digitalization, and organization of digital resources. Furthermore, I did my internship at the GREDOS repository of the university of Salamanca.
+
+      Courses included:
+      - Research in virtual environments and open science
+      - Content management systems
+      - Data science: social network analysis 
+      - Digital preservation
+      - Description, representation and organisation of digital content 
+      - Digital information indexing and retrieval systems
+      - Digital inclusion and sustainability
+  - degree: BSc in Systems Engineering
+    institution: National University of Altiplano - Puno, Peru
+    start: 2008-01-01
+    end: 2012-12-30
+    summary: |
+      I focused on implementing a web system for managing students and teachers data of the National University of the Altiplano of Puno.
+      
+      Courses included:
+      - Structure of data and algorithms
+      - Technologies for application development
+      - Planning and assessment of systems projects
+      - Software engineering
+      - Information systems
+      - Quality in organizations and re-engineering
+      - Distributed information systems
+      - Implementation of information systems
 
 experience:
   - role: Senior AI Research Scientist
