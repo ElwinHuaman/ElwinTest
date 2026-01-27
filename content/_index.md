@@ -20,11 +20,14 @@ sections:
         text: Download CV
         url: uploads/CV-ElwinHuaman.pdf
       headings:
-        about: 'Imaynallan'
+        about: 'Imaynallan 👋'
         education: ''
         interests: ''
     design:
       # Use the new Gradient Mesh which automatically adapts to the selected theme colors
+      # background:
+      #   gradient_mesh:
+      #     enable: true
       background:
         color: black
         image:
