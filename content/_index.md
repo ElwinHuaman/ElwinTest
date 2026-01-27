@@ -20,7 +20,7 @@ sections:
         text: Download CV
         url: uploads/CV-ElwinHuaman.pdf
       headings:
-        about: ''
+        about: 'Imaynallan'
         education: ''
         interests: ''
     design:
