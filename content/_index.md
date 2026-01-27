@@ -129,7 +129,3 @@ sections:
         css_class: 'bg-primary-300 dark:bg-primary-700'
         css_style: ''
 ---
-
-## [Imaynallan](## "This is a general greeting in Quechua, it is used with everyone and at any time of the day, it shows a great welcome.") 👋
-
-Elwin Huaman is a **Researcher**, **Project Manager**, and an **Activist for Under-Resourced Languages**. He has experience creating [Knowledge Graphs](https://link.springer.com/book/10.1007/978-3-030-37439-6) and applying [Semantic Web]() technologies in academia and industry. He has co-authored the book: [Knowledge Graphs - Methodology, Tools and Selected Use Cases](https://link.springer.com/book/10.1007/978-3-030-37439-6), and leads the [QICHWABASE](https://qichwa.wikibase.cloud/) Knowledge Graph that supports a harmonization process of the language and knowledge of Quechua communities across the world.
