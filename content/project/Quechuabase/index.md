@@ -3,6 +3,7 @@ title: "QuechuaBase.org"
 summary: "Recording Puno Quechua voices across generations and making audio recordings available to all on Mozilla Common Voice to support language preservation, education, and research."
 authors: ["me"]
 tags: ["Quechua Knowledge Graphs", "Quechua", "Knowledge Graphs", "Language Preservation", "Open Educational Resources"]
+featured: true
 date: "2025-10-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

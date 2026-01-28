@@ -31,7 +31,7 @@ tags:
 - Knowledge Graphs
 - Semantic Web
 
-featured: true
+featured: false
 
 # links:
 # - name: ""

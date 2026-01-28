@@ -1,6 +1,7 @@
 ---
 title: Publications
 cms_exclude: false
+highlight: true
 
 # View.
 view: citation

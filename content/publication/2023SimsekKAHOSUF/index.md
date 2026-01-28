@@ -37,7 +37,7 @@ tags:
 - Semantic Web
 - Quality Assessment
 
-featured: true
+featured: false
 
 # links:
 # - name: ""

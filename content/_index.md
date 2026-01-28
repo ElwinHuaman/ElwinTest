@@ -57,7 +57,7 @@ sections:
           - event
         featured_only: true
     design:
-      view: article-grid
+      view: compact
       columns: 3
   - block: collection
     id: papers
