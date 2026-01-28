@@ -1,8 +1,13 @@
 ---
-title: Quechua Advance
-summary: Open courses
+title: Quechua Intermediate
+summary: Unete a las 8 sesiones a cargo la yachachiq (profesora) Yaritza Lagos.
+date: 2024-08-01
 view: article-grid
 columns: 3
+tags:
+  - Quechua
+image:
+  caption: 'Learning Quechua Online'
 ---
 This Quechua course has been compiled from external sources.
 
