@@ -30,7 +30,7 @@ url_video: ""
 slides: ""
 ---
 ## Our Mission
-Quechuabase.org is an open-source, community-driven digital effort dedicated to the preservation, documentation, and revitalization of the Quechua language family. By leveraging modern database architecture and collaborative linguistics, we aim to provide a centralized hub for researchers, educators, and native speakers to access high-quality linguistic data.
+[Quechuabase.org](https://quechuabase.org/) is an open-source, community-driven digital effort dedicated to the preservation, documentation, and revitalization of the Quechua language family. By leveraging modern database architecture and collaborative linguistics, we aim to provide a centralized hub for researchers, educators, and native speakers to access high-quality linguistic data.
 
 ## The Problem
 Despite being the most widely spoken indigenous language family in the Americas, Quechua suffers from digital under-representation. Fragmented dialects, inconsistent orthography, and a lack of structured datasets make it difficult for developers to build effective AI tools, translation software, or educational apps.
@@ -38,7 +38,7 @@ Despite being the most widely spoken indigenous language family in the Americas,
 ![Quechua Base Campaign 2025](/media/images/2024-QuechuaBase.png)
 
 ## Our Approach
-Quechuabase.org serves as a Linguistic Data Knowledge Graph. Our project features:
+[Quechuabase.org](https://quechuabase.org/) serves as a Linguistic Data Knowledge Graph. Our project features:
 
 * Knowledge Graph: A searchable knowledge base mapping variations between Southern, Central, and Northern Quechua.
 * Corpus Architecture: A curated collection of written texts and transcribed sentences for Natural Language Processing (NLP) training.
@@ -46,12 +46,13 @@ Quechuabase.org serves as a Linguistic Data Knowledge Graph. Our project feature
 * Community Validation: A "wiki-style" verification layer where native speakers can validte and refine entries to ensure cultural and linguistic accuracy.
 
 ## How to contribute
-### 🚀 The Andes go Digital: Introducing Quechuabase.org 🏔️
+> 🚀 The Andes go Digital: Introducing Quechuabase.org 🏔️
+
 Quechua is more than a language; it is a worldview. But in the world of Big Data and AI, indigenous voices are often left behind.
 
 > We’re changing that.
 
-Introducing Quechuabase.org, the first comprehensive, open-source knowledge base designed to power the next generation of Quechua digital tools. 
+Introducing [Quechuabase.org](https://quechuabase.org/), the first comprehensive, open-source knowledge base designed to power the next generation of Quechua digital tools. 
 
 Whether you are a linguist, a developer, or a Quechua enthusiast, our platform is built for you.
 
