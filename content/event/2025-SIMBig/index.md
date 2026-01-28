@@ -39,8 +39,8 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/ElwinHuaman
-url_code: ""
-url_pdf: ""
+url_code: "https://arxiv.org/abs/2510.13871"
+url_pdf: "https://arxiv.org/abs/2510.13871"
 url_slides: ""
 url_video: ""
 
