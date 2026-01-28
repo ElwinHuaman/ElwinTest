@@ -57,7 +57,7 @@ sections:
           - event
         featured_only: true
     design:
-      view: compact
+      view: date-title-summary
       columns: 3
   - block: collection
     id: papers
