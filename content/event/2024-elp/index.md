@@ -12,21 +12,21 @@ address:
   postcode: ''
   country: USA
 
-summary: "Elwin Huaman, representing the University of Innsbruck, was a featured expert at the netidee Talk 2024. His participation was centered on the discussion on how internet technologies can be leveraged to foster more inclusive digital environments and improve educational accessibility."
+summary: "In this webinar from the Endangered Languages Project, Elwin Huaman provides a comprehensive introduction to ELAN (Eudico Linguistic Annotator) and VLC Media Player for transcribing, annotating, and subtitling audio and video recordings."
 
-abstract: "The netidee Talk, held on November 28, 2024, at the VIENNABallhaus, serves as a premier gathering for the Austrian internet community to celebrate innovation and funding excellence. Organized by the Internet Foundation, the event marks the official presentation of the Call 19 funding recipients and facilitates high-level expert dialogue on the future of digital infrastructure."
+abstract: "The webinar provides a technical roadmap for using ELAN and VLC Media Player in language documentation. The session covers the fundamental architecture of ELAN, including the management of tiers for multi-speaker or multilingual projects, and demonstrates practical workflows for manual and automatic segmentation using silence recognition tools."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2024-11-28T17:00:00Z"
-date_end: "2024-11-28T20:00:00Z"
+date: "2024-11-20T17:00:00Z"
+date_end: "2024-11-20T20:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2025-11-28T00:00:00Z"
+publishDate: "2025-11-20T00:00:00Z"
 
 authors: ["me"]
-tags: ["Talks", "Research", "Under-Resourced Languages", "Education"]
+tags: ["Talks", "ELAN", "Under-Resourced Languages", "Education"]
 
 # Is this a featured talk? (true/false)
 featured: true
