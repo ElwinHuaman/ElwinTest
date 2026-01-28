@@ -9,19 +9,48 @@ design:
   spacing: "6rem"
 
 sections:
+  # - block: resume-biography-3
+  #   content:
+  #     # Choose a user profile to display (a folder name within `content/authors/`)
+  #     username: elwin
+  #     text: ""
+  #     # Show a call-to-action button under your biography? (optional)
+  #     button:
+  #       text: Download Resume
+  #       url: ../uploads/resume-ElwinHuaman.pdf
+  #       # text: Download CV
+  #       # url: uploads/resume.pdf
+  #   design:
+  #     css_class: dark
+  #     background:
+  #       color: black
+  #       image:
+  #         # Add your image background to `assets/media/`.
+  #         # filename: stacked-peaks.svg
+  #         filename: ElwinHuaman-Alpacas-2024.jpg
+  #         filters:
+  #           brightness: 0.7
+  #         size: cover
+  #         position: center
+  #         parallax: false  
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: elwin
-      text: ""
+      text: ''
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download Resume
         url: ../uploads/resume-ElwinHuaman.pdf
-        # text: Download CV
-        # url: uploads/resume.pdf
+      headings:
+        about: 'Contact Me 🪧'
+        education: ''
+        interests: ''
     design:
-      css_class: dark
+      # Use the new Gradient Mesh which automatically adapts to the selected theme colors
+      # background:
+      #   gradient_mesh:
+      #     enable: true
       background:
         color: black
         image:
@@ -33,9 +62,13 @@ sections:
           size: cover
           position: center
           parallax: false  
+
+      # Name heading sizing to accommodate long or short names
+      name:
+        size: sm # Options: xs, sm, md, lg (default), xl
+
+      # Avatar customization
+      avatar:
+        size: small # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
+        shape: circle # Options: circle (default), square, rounded
 ---
-## Contact Me 🪧
-- 📧 Email:: _elwin_ dot _huaman_ at _hotmail_ dot _com_
-- 📅 [Book an appointment](https://calendly.com/elwinhuaman/meeting)
-- 💬 [Telegram](https://t.me/ElwinHuaman)
-- 📧 [Mailinglist](https://groups.google.com/g/elwinhuaman/)
