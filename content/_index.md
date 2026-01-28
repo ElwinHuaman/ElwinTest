@@ -48,48 +48,57 @@ sections:
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
-  - block: markdown
-    content:
-      title: '📚 My Research'
-      subtitle: ''
-      text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-
-        Please reach out to collaborate 😃
-    design:
-      columns: '1'
-  - block: collection
-    id: papers
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publications
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
-  - block: collection
-    content:
-      title: Recent Publications
-      text: ''
-      filters:
-        folders:
-          - publications
-        exclude_featured: false
-    design:
-      view: citation
   - block: collection
     id: talks
     content:
       title: Recent & Upcoming Talks
       filters:
         folders:
-          - events
+          - event
+        featured_only: true
     design:
-      view: card
+      view: article-grid
+      columns: 2
+  - block: collection
+    id: papers
+    content:
+      title: Featured Publications
+      text: ''
+      filters:
+        folders:
+          - publication
+        featured_only: true
+    design:
+      view: article-grid
+      columns: 3
+  - block: collection
+    id: projects
+    content:
+      title: Featured Projects
+      filters:
+        folders:
+          - project
+        featured_only: true
+    design:
+      view: article-grid
+      columns: 3
+  # - block: markdown
+  #   content:
+  #     title: '📚 Elwin Huaman Knowledge Graph'
+  #     subtitle: 'powereded by [Wikidata](https://www.wikidata.org/entity/Q100324298)'
+  #     text: '<iframe style="width: 50vw; height: 50vh; border: none;" src="https://query.wikidata.org/embed.html#%23%20tool%3A%20scholia%0APREFIX%20target%3A%20%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ100324298%3E%0A%0A%23defaultView%3AGraph%0ASELECT%20%3Fnode%20%3FnodeLabel%20%3FnodeImage%20%3FchildNode%20%3FchildNodeLabel%20%3FchildNodeImage%20%3Frgb%20%0AWITH%20%7B%0A%20%20SELECT%20DISTINCT%20%3Fproperty%20WHERE%20%7B%0A%20%20%20%20%20%20%3Fproperty%20a%20wikibase%3AProperty%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20wdt%3AP31%20wd%3AQ18610173%20%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20wdt%3AP31%20wd%3AQ26940804%20.%20%0A%20%20%20%20%7D%0A%7D%20AS%20%25properties%0AWITH%20%7B%0A%20%20SELECT%20DISTINCT%20%3Fnode%20%3FchildNode%20WHERE%20%7B%0A%20%20%20%20%20%20BIND(target%3A%20AS%20%3Fnode)%0A%20%20%20%20%20%20%3Fnode%20%3Fp%20%3Fi.%0A%20%20%20%20%20%20%3FchildNode%20%3Fx%20%3Fp.%0A%20%20%20%20%20%20%3FchildNode%20rdf%3Atype%20wikibase%3AProperty.%0A%20%20%20%20%20%20FILTER(STRSTARTS(STR(%3Fi)%2C%20%22http%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ%22))%0A%20%20%20%20%20%20FILTER(STRSTARTS(STR(%3FchildNode)%2C%20%22http%3A%2F%2Fwww.wikidata.org%2Fentity%2FP%22))%0A%20%20%20%20%7D%0A%20%20LIMIT%205000%0A%7D%20AS%20%25nodes%0AWITH%20%7B%0A%20%20SELECT%20DISTINCT%20%3FchildNode%20%3Fnode%20%3Frgb%20WHERE%20%7B%0A%20%20%20%20%20%20BIND(%22EFFBD8%22%20AS%20%3Frgb)%0A%20%20%20%20%20%20target%3A%20%3Fp%20%3FchildNode.%0A%20%20%20%20%20%20%3Fnode%20%3Fx%20%3Fp.%0A%20%20%20%20%20%20%3Fnode%20rdf%3Atype%20wikibase%3AProperty.%0A%20%20%20%20%20%20FILTER(STRSTARTS(STR(%3FchildNode)%2C%20%22http%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ%22))%0A%20%20%20%20%7D%0A%20%20LIMIT%205000%0A%7D%20AS%20%25childNodes%0AWHERE%20%7B%0A%20%20%7B%0A%20%20%20%20INCLUDE%20%25nodes%0A%20%20%7D%0A%20%20UNION%0A%20%20%7B%0A%20%20%20%20INCLUDE%20%25childNodes%0A%20%20%7D%0A%0A%20%20OPTIONAL%20%7B%20%0A%20%20%20%20INCLUDE%20%25properties%0A%20%20%20%20%3Fproperty%20wikibase%3AdirectClaim%20%3Fnodeclaim.%0A%20%20%20%20%3Fnode%20%3Fnodeclaim%20%3FnodeImage.%20%0A%20%20%7D%0A%0A%20%20OPTIONAL%20%7B%20%0A%20%20%20%20INCLUDE%20%25properties%0A%20%20%20%20%3Fproperty%20wikibase%3AdirectClaim%20%3FchildNodeclaim.%0A%20%20%20%20%3FchildNode%20%3FchildNodeclaim%20%3FchildNodeImage.%20%0A%20%20%7D%0A%20%20%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%20%20%20%20%20%20%20%20%0A%7D" referrerpolicy="origin" sandbox="allow-scripts allow-same-origin allow-popups"></iframe>'
+  #   design:
+  #     columns: '1'
+  # # - block: collection
+  # #   content:
+  # #     title: Recent Publications
+  # #     text: ""
+  # #     filters:
+  # #       folders:
+  # #         - publication
+  # #       exclude_featured: false
+  # #   design:
+  # #     view: citation
   - block: collection
     id: news
     content:
@@ -97,25 +106,26 @@ sections:
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
-      page_type: blog
+      page_type: post
       # Choose how many pages you would like to display (0 = all pages)
-      count: 10
+      count: 3
+      # Filter on criteria
       # Filter on criteria
       filters:
-        author: ''
-        category: ''
-        tag: ''
+        author: ""
+        category: ""
+        tag: ""
         exclude_featured: false
         exclude_future: false
         exclude_past: false
-        publication_type: ''
+        publication_type: ""
       # Choose how many pages you would like to offset by
       offset: 0
       # Page order: descending (desc) or ascending (asc) date.
       order: desc
     design:
       # Choose a layout view
-      view: card
+      view: date-title-summary
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
