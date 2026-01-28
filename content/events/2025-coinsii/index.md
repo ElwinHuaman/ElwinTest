@@ -1,7 +1,6 @@
 ---
 title: 2025-COINSII
 date: 2025-01-28T19:02:17.999Z
-draft: false
 event_name: Conference, meetup, or seminar name
 event_url: ""
 location: City, Country or Online
@@ -38,7 +37,6 @@ links:
     url: ""
 slides: ""
 projects: []
-
+status: published
 ---
-
 <!-- Add the talk outline, prerequisites, and how people can join. -->
