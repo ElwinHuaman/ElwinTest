@@ -8,7 +8,7 @@ location: University of Pennsylvania (Online)
 address:
   street: ''
   city: 'Pennsylvania'
-  region: ''
+  region: 'USA'
   postcode: ''
   country: 'USA'
 

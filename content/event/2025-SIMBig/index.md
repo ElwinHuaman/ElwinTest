@@ -8,7 +8,7 @@ location: Universidad Peruana de Ciencas Aplicadas
 address:
   street: ''
   city: 'Lima'
-  region: ''
+  region: 'Peru'
   postcode: ''
   country: Peru
 
