@@ -63,10 +63,14 @@ main:
       url: project/
       parent: Projects
       weight: 10
+    - name: 2025 QuechuaBase
+      url: project/quechuabase/
+      parent: Projects
+      weight: 32
     - name: 2024 Quechua Voices
       url: project/quechuavoices/
       parent: Projects
-      weight: 32
+      weight: 33
     - name: 2023 WikiAndes
       url: project/wikiandes/
       parent: Projects
