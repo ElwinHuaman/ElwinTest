@@ -3,7 +3,7 @@ title: "Knowledge Graphs and Under-Resourced Languages: Results"
 
 event_name: "V Congreso Internacional de Ingenieria de Sistemas, U.N.A. Puno"
 event_url: 'https://www.facebook.com/photo?fbid=24572246505787418&set=pcb.25317297607913012'
-date: 2025-11-20T18:53:19.991Z
+date: 2025-11-20T18:53:19Z
 
 location: Ingenieria de Sistemas, UNAP
 address:
@@ -18,8 +18,8 @@ abstract: "Our 4-phase lifecycle (Creation, Hosting, Curation, and Deployment) w
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2025-11-20T10:00:00Z"
-date_end: "2025-11-20T11:00:00Z"
+event_start: "2025-11-20T10:00:00Z"
+event_end: "2025-11-20T11:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).

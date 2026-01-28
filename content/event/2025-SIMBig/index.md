@@ -1,6 +1,6 @@
 ---
 title: "Presenter | Quechua Speech Datasets in Common Voice: The Case of Puno Quechua"
-
+date: "2025-10-31T10:00:00Z"
 event_name: "The 12th International Conference on Information Management and Big Data (SIMBig2025), Oct 29 to 31, Lima, Peru"
 event_url: 'https://simbig.org/SIMBig2025/'
 
@@ -17,8 +17,8 @@ abstract: "Under-resourced languages, such as Quechuas, face data and resource s
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2025-10-31T10:00:00Z"
-date_end: "2025-10-31T11:00:00Z"
+event_start: 2025-10-31T10:02:00Z
+event_end: 2025-10-31T11:02:17Z
 all_day: false
 
 # Schedule page publish date (NOT talk date).
