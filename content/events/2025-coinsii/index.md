@@ -1,6 +1,6 @@
 ---
 title: 2025-COINSII
-date: 2026-01-28T19:02:17.999Z
+date: 2025-01-28T19:02:17.999Z
 draft: false
 event_name: Conference, meetup, or seminar name
 event_url: ""
@@ -14,8 +14,8 @@ address:
 summary: Why attend? State the value for participants.
 abstract: |
   Add the talk synopsis, key results, and logistics.
-event_start: 2026-02-04T19:02:17.999Z
-event_end: 2026-02-04T21:02:17.999Z
+event_start: 2025-02-04T19:02:17.999Z
+event_end: 2025-02-04T21:02:17.999Z
 event_all_day: false
 authors:
   - me

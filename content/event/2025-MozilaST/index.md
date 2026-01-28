@@ -17,7 +17,7 @@ abstract: "The goal of this shared task is to promote the development of robust 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2025-09-26T10:00:00Z"
+date: "2025-12-08T10:00:00Z"
 date_end: "2025-12-08T11:00:00Z"
 all_day: false
 
