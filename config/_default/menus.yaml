@@ -97,16 +97,16 @@ main:
     #   weight: 61
     - name: Activities   
       weight: 50
-    - name: Blog
-      url: post/
-      parent: Activities
-      weight: 51
     - name: Talks (Upcoming)
       url: event/
       parent: Activities
-      weight: 53
+      weight: 51
     - name: Teaching
       url: activity/teaching/
+      parent: Activities
+      weight: 53    
+    - name: Blog
+      url: post/
       parent: Activities
       weight: 54    
     # CONTACT
