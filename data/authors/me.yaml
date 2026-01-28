@@ -265,11 +265,32 @@ languages:
   - name: English
     percent: 80
   - name: Italian
-    percent: 60
+    percent: 50
   - name: German
     percent: 40
 
 awards:
+  - title: '`GRANT` | 2026 Dr. Chan Yeh Practitioners'
+    url: 'https://silicon.stanford.edu/practitioners2025/practitioners2026/'
+    date: '2025-06-01'
+    awarder: SILICON at Stanford University
+    icon: 'hero/light-bulb'
+    summary: |
+      It creates structured data that can fuel language learning apps, dictionaries, and NLP tools tailored to Quechua.
+  - title: '`GRANT` | Collecting Speech data for Puno Quechua, Peru'
+    url: 'https://datacollective.mozillafoundation.org/datasets/cmflnuzw781hfx067jwv4pt9x'
+    date: '2025-03-01'
+    awarder: Mozilla Foundation
+    icon: 'hero/light-bulb'
+    summary: |
+      The goal is to collect Puno Quechua voices and make them available to the world.
+  - title: '`SCHOLARSHIP` | netidee 2024'
+    url: 'https://www.netidee.at/building-knowledge-graphs-under-resourced-languages'
+    date: '2024-09-20'
+    awarder: netidee
+    icon: 'hero/academic-cap'
+    summary: |
+      Building Knowledge Graph for Under-Resourced Languages
   - title: '`GRANT` | Giving voices to the Quechua Collao vocabulary'
     url: 'https://meta.wikimedia.org/wiki/Grants:Programs/Wikimedia_Community_Fund/Rapid_Fund/Giving_voices_to_the_Quechua_Collao_vocabulary_on_Wikimedia_Commons_(ID:_22450106)'
     date: '2024-04-01'
@@ -282,14 +303,14 @@ awards:
     certificate_url: ''
     date: '2023-06-01'
     awarder: University of Innsbruck
-    icon: ''
+    icon: 'hero/light-bulb'
     summary: |
       University of Innsbruck grant for attending the AURORA Summer School on Public Outreach for selected PhD candidates, from 5 to 8 June, Iceland.
   - title: '`SCHOLARSHIP` | Supporting technical contributor to Wikimedia projects'
     url: ''
     date: '2023-05-01'
     awarder: Wikimedia Foundation
-    icon: ''
+    icon: 'hero/academic-cap'
     summary: |
       Wikimedia Foundation for supporting technical contributor to Wikimedia projects, and allow them to attend the Wikimedia Hackathon 19–21 May, Greece
   - title: '`SCIENCE SLAM WINNER` | Preserving human knowledge through knowledge graphs'
@@ -304,7 +325,7 @@ awards:
     certificate_url: '../../uploads/NexusCertificate.png'
     date: '2023-06-03'
     awarder: European network for Web-centred linguistic data science
-    icon: ''
+    icon: 'hero/presentation-chart-bar'
     summary: |
       Best Project Award at the 4th Summer Datathon on Linguistic Linked Open Data (SDLLOD-22) with the project _Dictionary LODification using Wikibase: Quechua language_.
   - title: '`FIRST PRIZE` | Indigenous Languages Hackathon'
