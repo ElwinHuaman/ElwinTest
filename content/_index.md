@@ -49,6 +49,30 @@ sections:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
   - block: collection
+    id: talks
+    content:
+      title: Recent & Upcoming Talks
+      subtitle: ''
+      text: ''
+      # Page type to display. E.g. post, talk, publication...
+      page_type: event
+      # Choose how many pages you would like to display (0 = all pages)
+      count: 3
+      # Filter on criteria
+      # Filter on criteria
+      filters:
+        author: ""
+        category: ""
+        tag: ""
+        featured_only: true
+      # Choose how many pages you would like to offset by
+      offset: 0
+      # Page order: descending (desc) or ascending (asc) date.
+      order: desc
+    design:
+      view: article-grid
+      columns: 3
+  - block: collection
     id: talks    
     content:
       title: Recent & Upcoming Talks

@@ -4,7 +4,7 @@ authors:
 - Dieter Fensel
 - Umutcan Şimşek
 - Kevin Angele
-- admin
+- me
 - Elias Kärle
 - Oleksandra Panasiuk
 - Ioan Toma
