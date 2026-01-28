@@ -18,7 +18,7 @@ abstract: "We will discuss: Quechua Teaching in Higher Education. The First Gloc
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 event_start: "2026-02-27T10:00:00Z"
-event_end: "2025-02-28T11:00:00Z"
+event_end: "2026-02-28T11:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
