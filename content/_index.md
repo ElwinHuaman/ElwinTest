@@ -54,8 +54,6 @@ sections:
       title: Recent & Upcoming Talks
       subtitle: ''
       text: ''
-      # Page type to display. E.g. post, talk, publication...
-      page_type: talk
       filters:
         folders:
           - event
