@@ -73,19 +73,6 @@ sections:
       view: article-grid
       columns: 3
   - block: collection
-    id: talks    
-    content:
-      title: Recent & Upcoming Talks
-      subtitle: ''
-      text: ''
-      filters:
-        folders:
-          - event
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 3
-  - block: collection
     id: papers
     content:
       title: Featured Publications
