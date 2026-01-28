@@ -34,3 +34,8 @@ sections:
           position: center
           parallax: false  
 ---
+## Contact Me 🪧
+- 📧 Email:: _elwin_ dot _huaman_ at _hotmail_ dot _com_
+- 📅 [Book an appointment](https://calendly.com/elwinhuaman/meeting)
+- 💬 [Telegram](https://t.me/ElwinHuaman)
+- 📧 [Mailinglist](https://groups.google.com/g/elwinhuaman/)
