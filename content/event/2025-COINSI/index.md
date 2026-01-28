@@ -1,8 +1,9 @@
 ---
 title: "Knowledge Graphs and Under-Resourced Languages: Results"
 
-event: "V Congreso Internacional de Ingenieria de Sistemas, U.N.A. Puno"
+event_name: "V Congreso Internacional de Ingenieria de Sistemas, U.N.A. Puno"
 event_url: 'https://www.facebook.com/photo?fbid=24572246505787418&set=pcb.25317297607913012'
+date: 2025-11-20T18:53:19.991Z
 
 location: Ingenieria de Sistemas, UNAP
 address:

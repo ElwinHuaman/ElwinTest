@@ -1,7 +1,7 @@
 ---
 title: "Invited Speaker: Decolonizing Technology: Empowering indigenous communities"
 
-event: "The Kuyayky START Labs (KSTART) Conference"
+event_name: "The Kuyayky START Labs (KSTART) Conference"
 event_url: 'https://kuyayky.com/?page_id=769'
 
 location: Kuyayky

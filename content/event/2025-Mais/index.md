@@ -1,7 +1,7 @@
 ---
 title: "Invited speaker: Translating indigenous cultures and knowledge on Wikipedia"
 
-event: "The Projeto Mais Teoria da História na Wiki, 07 al 17 June, Brazil (online)"
+event_name: "The Projeto Mais Teoria da História na Wiki, 07 al 17 June, Brazil (online)"
 event_url: 'https://meta.wikimedia.org/wiki/Projeto_Mais_Teoria_da_Hist%C3%B3ria_na_Wiki/Ciclo_de_oficinas_Mais_Povos_Origin%C3%A1rios_em_Teoria_da_Hist%C3%B3ria_na_Wiki_2025/Cronograma'
 
 location: Brazil (Online)

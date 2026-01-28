@@ -1,7 +1,7 @@
 ---
 title: "Advisory Committee | Shared Task: Mozilla Common Voice Spontaneous Speech ASR, by Mozilla Data Collective"
 
-event: "Shared Task: Mozilla Common Voice Spontaneous Speech ASR, by Mozilla Data Collective, 26 Sept to 12 Dec, USA (online)"
+event_name: "Shared Task: Mozilla Common Voice Spontaneous Speech ASR, by Mozilla Data Collective, 26 Sept to 12 Dec, USA (online)"
 event_url: 'https://community.mozilladatacollective.com/shared-task-mozilla-common-voice-spontaneous-speech-asr/'
 
 location: USA (Online)

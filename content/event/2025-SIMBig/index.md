@@ -1,7 +1,7 @@
 ---
 title: "Presenter | Quechua Speech Datasets in Common Voice: The Case of Puno Quechua"
 
-event: "The 12th International Conference on Information Management and Big Data (SIMBig2025), Oct 29 to 31, Lima, Peru"
+event_name: "The 12th International Conference on Information Management and Big Data (SIMBig2025), Oct 29 to 31, Lima, Peru"
 event_url: 'https://simbig.org/SIMBig2025/'
 
 location: Universidad Peruana de Ciencas Aplicadas
