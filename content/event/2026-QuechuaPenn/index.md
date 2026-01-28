@@ -10,7 +10,7 @@ address:
   city: 'Pennsylvania'
   region: ''
   postcode: ''
-  country: USA
+  country: 'USA'
 
 summary: "This conference will contribute to the research, teaching, learning, dissemination, maintenance, revitalization, and promotion of Quechua languages ​​and cultures worldwide."
 abstract: "We will discuss: Quechua Teaching in Higher Education. The First Glocal Conference will bring together Indigenous Quechua leaders, educators, academics, practitioners, policymakers, and community activists from around the world. This local and global conference will allow professionals in education, history, language policy, linguistics, literature, cultural studies, anthropology, and other disciplines to exchange ideas, experiences, and research on methodological, theoretical, pedagogical, and practical aspects from multidisciplinary and interdisciplinary perspectives."
