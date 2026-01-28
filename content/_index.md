@@ -16,9 +16,9 @@ sections:
       username: me
       text: ''
       # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download CV
-        url: uploads/CV-ElwinHuaman.pdf
+      # button:
+      #   text: Download CV
+      #   url: uploads/CV-ElwinHuaman.pdf
       headings:
         about: 'Imaynallan 👋'
         education: ''
@@ -82,18 +82,6 @@ sections:
       offset: 0
       # Page order: descending (desc) or ascending (asc) date.
       order: desc
-    design:
-      view: article-grid
-      columns: 3
-  - block: collection
-    id: papers
-    content:
-      title: Featured Publications
-      text: ''
-      filters:
-        folders:
-          - publication
-        featured_only: true
     design:
       view: article-grid
       columns: 3
