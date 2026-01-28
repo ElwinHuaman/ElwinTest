@@ -24,7 +24,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: "2024-09-25T00:00:00Z"
 
-authors: ["admin"]
+authors: ["me"]
 tags: ["Talks", "Research", "Qichwabase", "Knowledge Graphs"]
 
 # Is this a featured talk? (true/false)
