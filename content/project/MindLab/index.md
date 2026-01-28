@@ -6,7 +6,7 @@ summary: "Knowledge Graph-enabled conversational agents, University of Innsbruck
 authors: [me]
 tags: ["Semantic Web", "Knowledge Graphs"]
 categories: []
-date: 2018-09-01T02:11:20+01:00
+date: 2020-09-01T02:11:20+01:00
 featured: true
 
 

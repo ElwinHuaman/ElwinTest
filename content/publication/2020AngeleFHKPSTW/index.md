@@ -37,7 +37,7 @@ tags:
 - Semantic Web
 - Research
 
-featured: false
+featured: true
 
 # links:
 # - name: ""

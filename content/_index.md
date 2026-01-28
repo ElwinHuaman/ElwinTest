@@ -65,6 +65,30 @@ sections:
     id: papers
     content:
       title: Featured Publications
+      subtitle: ''
+      text: ''
+      # Page type to display. E.g. post, talk, publication...
+      page_type: publication
+      # Choose how many pages you would like to display (0 = all pages)
+      count: 3
+      # Filter on criteria
+      # Filter on criteria
+      filters:
+        author: ""
+        category: ""
+        tag: ""
+        featured_only: true
+      # Choose how many pages you would like to offset by
+      offset: 0
+      # Page order: descending (desc) or ascending (asc) date.
+      order: desc
+    design:
+      view: article-grid
+      columns: 3
+  - block: collection
+    id: papers
+    content:
+      title: Featured Publications
       text: ''
       filters:
         folders:
@@ -94,17 +118,6 @@ sections:
       offset: 0
       # Page order: descending (desc) or ascending (asc) date.
       order: desc
-    design:
-      view: article-grid
-      columns: 3
-  - block: collection
-    id: projects
-    content:
-      title: Featured Projects
-      filters:
-        folders:
-          - project
-        featured_only: true
     design:
       view: article-grid
       columns: 3
