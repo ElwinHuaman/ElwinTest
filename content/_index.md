@@ -77,6 +77,30 @@ sections:
     id: projects
     content:
       title: Featured Projects
+      subtitle: ''
+      text: ''
+      # Page type to display. E.g. post, talk, publication...
+      page_type: project
+      # Choose how many pages you would like to display (0 = all pages)
+      count: 3
+      # Filter on criteria
+      # Filter on criteria
+      filters:
+        author: ""
+        category: ""
+        tag: ""
+        featured_only: true
+      # Choose how many pages you would like to offset by
+      offset: 0
+      # Page order: descending (desc) or ascending (asc) date.
+      order: desc
+    design:
+      view: article-grid
+      columns: 3
+  - block: collection
+    id: projects
+    content:
+      title: Featured Projects
       filters:
         folders:
           - project
@@ -104,7 +128,7 @@ sections:
   - block: collection
     id: news
     content:
-      title: Recent News
+      title: Blog
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
@@ -125,15 +149,12 @@ sections:
       offset: 0
       # Page order: descending (desc) or ascending (asc) date.
       order: desc
-    # design:
-    #   # Choose a layout view
-    #   view: date-title-summary
-    #   # Reduce spacing
-    #   spacing:
-    #     padding: [0, 0, 0, 0]
     design:
-      view: article-grid
-      columns: 3
+      # Choose a layout view
+      view: date-title-summary
+      # Reduce spacing
+      spacing:
+        padding: [0, 0, 0, 0]
   - block: cta-card
     demo: true # Only display this section in the HugoBlox Kit demo site
     content:
