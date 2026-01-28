@@ -51,7 +51,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: '📅 Recent & Upcoming Talks'
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
@@ -75,7 +75,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Featured Publications
+      title: '📚 Featured Publications'
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
@@ -99,7 +99,7 @@ sections:
   - block: collection
     id: projects
     content:
-      title: Featured Projects
+      title: '📑 Featured Projects'
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
@@ -140,7 +140,7 @@ sections:
   - block: collection
     id: news
     content:
-      title: Blog
+      title: '✍️ Blog'
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
