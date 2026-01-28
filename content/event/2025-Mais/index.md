@@ -1,6 +1,6 @@
 ---
 title: "Invited speaker: Translating indigenous cultures and knowledge on Wikipedia"
-
+date: "2025-06-08T10:00:00Z"
 event_name: "The Projeto Mais Teoria da História na Wiki, 07 al 17 June, Brazil (online)"
 event_url: 'https://meta.wikimedia.org/wiki/Projeto_Mais_Teoria_da_Hist%C3%B3ria_na_Wiki/Ciclo_de_oficinas_Mais_Povos_Origin%C3%A1rios_em_Teoria_da_Hist%C3%B3ria_na_Wiki_2025/Cronograma'
 
@@ -17,15 +17,15 @@ abstract: "This workshop covers how to use the Content Translation tool to quick
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2025-06-08T10:00:00Z"
-date_end: "2025-06-08T11:00:00Z"
+event_start: "2025-06-08T10:00:00Z"
+event_end: "2025-06-08T11:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2025-06-08T00:00:00Z"
 
 authors: ["me"]
-tags: ["Talks", "Wikipedia", "Under-Resourced Languages"]
+tags: ["Invited Speaker", "Wikipedia", "Under-Resourced Languages"]
 
 # Is this a featured talk? (true/false)
 featured: true

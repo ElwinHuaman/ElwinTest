@@ -1,7 +1,7 @@
 ---
 title: "The netidee Call 19"
-
-event: "the netidee Talk, the recipients of the Call 19 funding will be presented, and current topics will be discussed by experts in the context of panel discussions."
+date: "2024-11-28T17:00:00Z"
+event_name: "the netidee Talk, the recipients of the Call 19 funding will be presented, and current topics will be discussed by experts in the context of panel discussions."
 event_url: 'https://www.netidee.at/node/2454'
 
 location: VIENNA Ballhaus
@@ -17,15 +17,15 @@ abstract: "The netidee Talk, held on November 28, 2024, at the VIENNABallhaus, s
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2024-11-28T17:00:00Z"
-date_end: "2024-11-28T20:00:00Z"
+event_start: "2024-11-28T17:00:00Z"
+event_end: "2024-11-28T20:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2025-11-28T00:00:00Z"
 
 authors: ["me"]
-tags: ["Talks", "Research", "Under-Resourced Languages", "Education"]
+tags: ["Invited Speaker", "Research", "Under-Resourced Languages", "Education"]
 
 # Is this a featured talk? (true/false)
 featured: true

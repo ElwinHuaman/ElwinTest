@@ -1,5 +1,5 @@
 ---
-title: "Knowledge Graphs and Under-Resourced Languages: Results"
+title: "Invited Speaker | Knowledge Graphs and Under-Resourced Languages: Results"
 
 event_name: "V Congreso Internacional de Ingenieria de Sistemas, U.N.A. Puno"
 event_url: 'https://www.facebook.com/photo?fbid=24572246505787418&set=pcb.25317297607913012'
@@ -26,7 +26,7 @@ all_day: false
 publishDate: "2025-11-20T00:00:00Z"
 
 authors: ["me"]
-tags: ["Talks", "Research", "Under-Resourced Languages", "Knowledge Graphs"]
+tags: ["Invited Speaker", "Research", "Under-Resourced Languages", "Knowledge Graphs"]
 
 # Is this a featured talk? (true/false)
 featured: true

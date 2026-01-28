@@ -1,7 +1,7 @@
 ---
 title: "Supporting minority languages and Wikimedia community (Round table)"
-
-event: Wikimania Katowice 2024
+date: "2024-08-09T10:00:00Z"
+event_name: Wikimania Katowice 2024
 event_url: 'https://wikimania.wikimedia.org/wiki/2024:Wikimania'
 
 location: National University of Altiplano
@@ -17,15 +17,15 @@ abstract: "Contemporary humans have developed 7,167 natural languages, 331 have 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2024-08-09T10:00:00Z"
-date_end: "2024-08-09T10:40:00Z"
+event_start: "2024-08-09T10:00:00Z"
+event_end: "2024-08-09T10:40:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2024-08-09T00:00:00Z"
 
 authors: ["me"]
-tags: ["Talks", "Research", "Wikimedia", "Knowledge"]
+tags: ["Invited Speaker", "Research", "Wikimedia", "Knowledge"]
 
 # Is this a featured talk? (true/false)
 featured: true

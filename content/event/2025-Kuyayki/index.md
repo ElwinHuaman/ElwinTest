@@ -1,6 +1,6 @@
 ---
 title: "Invited Speaker: Decolonizing Technology: Empowering indigenous communities"
-
+date: "2025-06-20T10:00:00Z"
 event_name: "The Kuyayky START Labs (KSTART) Conference"
 event_url: 'https://kuyayky.com/?page_id=769'
 
@@ -8,7 +8,7 @@ location: Kuyayky
 address:
   street: ''
   city: Jauja
-  region: Jauja
+  region: ''
   postcode: ''
   country: Peru
 
@@ -17,15 +17,15 @@ abstract: "In 2025, the event brought together speakers from various parts of th
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2025-06-20T10:00:00Z"
-date_end: "2025-06-20T11:00:00Z"
+event_start: "2025-06-20T10:00:00Z"
+event_end: "2025-06-20T11:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2025-06-20T00:00:00Z"
 
 authors: ["me"]
-tags: ["Talks", "Quechua", "Education"]
+tags: ["Invited Speaker", "Quechua", "Education"]
 
 # Is this a featured talk? (true/false)
 featured: true

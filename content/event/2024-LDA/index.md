@@ -1,7 +1,7 @@
 ---
 title: "What are Knowledge Graphs and how they can support Under-Resourced Languages"
-
-event: Language Documentation and Archiving Conference 2024
+date: "2024-09-07T14:00:00Z"
+event_name: Language Documentation and Archiving Conference 2024
 event_url: 'https://langdoc.org/'
 
 location: Berlin-Brandenburg Academy of Sciences and Humanities
@@ -18,15 +18,15 @@ Building Knowledge Graphs for Under-Resourced Languages? What has been done on Q
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2024-09-07T14:00:00Z"
-date_end: "2024-09-07T14:20:00Z"
+event_start: "2024-09-07T14:00:00Z"
+event_end: "2024-09-07T14:20:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2024-08-09T00:00:00Z"
 
 authors: ["me"]
-tags: ["Talks", "Research", "Wikimedia", "Knowledge Graphs"]
+tags: ["Presenter", "Research", "Wikimedia", "Knowledge Graphs"]
 
 # Is this a featured talk? (true/false)
 featured: true

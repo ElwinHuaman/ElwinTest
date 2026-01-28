@@ -8,7 +8,7 @@ location: Universidad Peruana de Ciencas Aplicadas
 address:
   street: ''
   city: 'Lima'
-  region: 'Lima'
+  region: ''
   postcode: ''
   country: Peru
 
@@ -25,7 +25,7 @@ all_day: false
 publishDate: "2025-10-31T00:00:00Z"
 
 authors: ["me"]
-tags: ["Talks", "Common Voice", "Quechua Speech Datasets", "Under-Resourced Languages"]
+tags: ["Presenter", "Common Voice", "Quechua Speech Datasets", "Under-Resourced Languages"]
 
 # Is this a featured talk? (true/false)
 featured: true

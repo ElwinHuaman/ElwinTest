@@ -1,6 +1,6 @@
 ---
 title: "Advisory Committee | Shared Task: Mozilla Common Voice Spontaneous Speech ASR, by Mozilla Data Collective"
-
+date: "2025-12-08T10:00:00Z"
 event_name: "Shared Task: Mozilla Common Voice Spontaneous Speech ASR, by Mozilla Data Collective, 26 Sept to 12 Dec, USA (online)"
 event_url: 'https://community.mozilladatacollective.com/shared-task-mozilla-common-voice-spontaneous-speech-asr/'
 
@@ -17,15 +17,15 @@ abstract: "The goal of this shared task is to promote the development of robust 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2025-12-08T10:00:00Z"
-date_end: "2025-12-08T11:00:00Z"
+event_start: "2025-12-08T10:00:00Z"
+event_end: "2025-12-08T11:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2025-12-08T00:00:00Z"
 
 authors: ["me"]
-tags: ["Talks", "Common Voice", "Mozilla", "Under-Resourced Languages"]
+tags: ["Advisory Committee", "Common Voice", "Mozilla", "Under-Resourced Languages"]
 
 # Is this a featured talk? (true/false)
 featured: true
@@ -35,7 +35,7 @@ image:
   focal_point: Right
 
 links:
-- icon: twitter
+- icon: linkedin
   icon_pack: fab
   name: Follow
   url: https://twitter.com/ElwinHuaman
