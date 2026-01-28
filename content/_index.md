@@ -49,15 +49,19 @@ sections:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
   - block: collection
-    id: talks
+    id: talks    
     content:
       title: Recent & Upcoming Talks
+      subtitle: ''
+      text: ''
+      # Page type to display. E.g. post, talk, publication...
+      page_type: talk
       filters:
         folders:
           - event
         featured_only: true
     design:
-      view: date-title-summary
+      view: article-grid
       columns: 3
   - block: collection
     id: papers
