@@ -109,23 +109,23 @@ main:
       url: post/
       parent: Activities
       weight: 54    
-    # CONTACT
-    - name: Contact
-      url: contact/
-      weight: 60
-    # LANGUAGE
-    - name: 🌐
-      # url: contact/
-      weight: 70
-    - name: Quechua
-      url: 'https://elwin-huamanquispe-com.translate.goog/?_x_tr_sl=en&_x_tr_tl=qu&_x_tr_hl=en-US&_x_tr_pto=wapp'
-      parent: 🌐
-      weight: 71
-    - name: Spanish
-      url: 'https://elwin-huamanquispe-com.translate.goog/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=en-US&_x_tr_pto=wapp'
-      parent: 🌐
-      weight: 72
-    - name: English
-      url: 'https://elwin.huamanquispe.com/'
-      parent: 🌐
-      weight: 73
+    # # CONTACT
+    # - name: Contact
+    #   url: contact/
+    #   weight: 60
+    # # LANGUAGE
+    # - name: 🌐
+    #   # url: contact/
+    #   weight: 70
+    # - name: Quechua
+    #   url: 'https://elwin-huamanquispe-com.translate.goog/?_x_tr_sl=en&_x_tr_tl=qu&_x_tr_hl=en-US&_x_tr_pto=wapp'
+    #   parent: 🌐
+    #   weight: 71
+    # - name: Spanish
+    #   url: 'https://elwin-huamanquispe-com.translate.goog/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=en-US&_x_tr_pto=wapp'
+    #   parent: 🌐
+    #   weight: 72
+    # - name: English
+    #   url: 'https://elwin.huamanquispe.com/'
+    #   parent: 🌐
+    #   weight: 73
