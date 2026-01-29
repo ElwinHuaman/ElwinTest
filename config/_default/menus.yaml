@@ -109,10 +109,10 @@ main:
       url: post/
       parent: Activities
       weight: 54    
-    # # CONTACT
-    # - name: Contact
-    #   url: contact/
-    #   weight: 60
+    # CONTACT
+    - name: Contact
+      url: contact/
+      weight: 60
     # # LANGUAGE
     # - name: 🌐
     #   # url: contact/

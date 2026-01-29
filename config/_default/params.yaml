@@ -95,9 +95,9 @@ hugoblox:
     language_switcher: true
     # Call-to-action button
     cta:
-      enable: true
-      text: "Contact"
-      url: "contact/"
+      enable: false
+      text: ""
+      url: ""
 
   # ────────────────────────────────────────────────────────────────────────────
   # FOOTER
