@@ -4,36 +4,36 @@
   #   The weight parameter defines the order that the links will appear in.
 
 main:
-    - name: Bio
+    - name: About me
       url: /
       weight: 10
     - name: Education
-      url: bio/education/
-      parent: Bio
+      url: about/education/
+      parent: About me
       weight: 11
     - name: Experience
-      url: bio/experience/
-      parent: Bio
+      url: about/experience/
+      parent: About me
       weight: 12
     - name: Awards
-      url: bio/awards/
-      parent: Bio
+      url: about/awards/
+      parent: About me
       weight: 13
     - name: Skills
-      url: bio/skills/
-      parent: Bio
+      url: about/skills/
+      parent: About me
       weight: 14
     - name: Languages
-      url: bio/languages/
-      parent: Bio
+      url: about/languages/
+      parent: About me
       weight: 15
     - name: My story
-      url: bio/my-story/
-      parent: Bio
+      url: about/my-story/
+      parent: About me
       weight: 16
     - name: My family
       url: 'https://huamanquispe.com/us/team/'
-      parent: Bio
+      parent: About me
       weight: 17
   # RESEARCH
     - name: Research
